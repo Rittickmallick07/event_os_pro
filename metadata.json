@@ -1,0 +1,6 @@
+{
+  "name": "Community Event OS",
+  "description": "All-in-one event management platform with SQL database architecture, Express API routes, QR check-in kiosk, speaker schedule, volunteer assignments, announcements, certificates, and analytics dashboard.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
